@@ -1,0 +1,14 @@
+Credits
+-------------------------------------------------
+
+Birch board background:
+http://www.guide-3d.com/texture/birch-white/
+
+Dark wood used for the tiles:
+http://webtreats.mysitemyway.com/8-tileable-dark-wood-texture-patterns/
+
+Part of this Code was adapted from an iOS Letter Game Tutorial
+by Marin Todorov:
+http://www.raywenderlich.com/33804/how-to-make-a-letterword-game-with-uikit-part-1
+http://www.raywenderlich.com/33806/how-to-make-a-letterword-game-with-uikit-part-2
+http://www.raywenderlich.com/33808/how-to-make-a-letter-word-game-with-uikit-part-3
